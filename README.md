@@ -45,6 +45,4 @@ Output: negative
 
 This project demonstrates how NLP techniques can be used to analyze human emotions from text data.
 
-## 📎 Author
 
-Your Name
